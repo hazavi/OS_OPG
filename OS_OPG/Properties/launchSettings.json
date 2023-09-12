@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "OS_OPG": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": "Linux"
+    }
+  }
+}
